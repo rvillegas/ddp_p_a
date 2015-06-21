@@ -1,0 +1,9 @@
+cat,sex,less30,less40,less50,more50
+Very bad,Male,1600,1500,1400,1300
+Bad,Male,2199,1899,1699,1599
+Regular,Male,2399,2299,2099,1999
+good,Male,2800,2700,2500,2400
+Very bad,Female,1500,1400,1200,1100
+Bad,Female,1799,1699,1499,1399
+Regular,Female,2199,1999,1899,1699
+good,Female,2700,2500,2300,2200
