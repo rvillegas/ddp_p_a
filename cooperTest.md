@@ -30,6 +30,22 @@ can be calculated with the following formula:
 With the VO2 max, the age and sex the aerobic condition can be determined.
 
 
+Example
+========================================================
+
+An example using this test, my data is:
+
+Age:53
+Sex: Male
+Distance:2400
+
+```r
+distance=2400
+VO2Max<-22.351 * distance/1000 - 11.288
+```
+
+The VO2 Max is  42.354 
+
 Aerobic condition table
 ========================================================
 
