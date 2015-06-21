@@ -51,16 +51,8 @@ Aerobic condition table
 
 ![alt text](./fig/tablasCooper.PNG)
 
-
-
-Conclusions
-========================================================
-
-There are other complex methods and machines to calculate the VO2 Max, but the cooper test is
-practical and the results can be taken every day to run and with this information know how to improved aerobic fitness.
-
-
 [Click here to go to the link I take the information and picture](http://burgalesesenelrunning.blogspot.com/2012/03/test-de-cooper-y-vo2-max.html)
+
 
 
 
