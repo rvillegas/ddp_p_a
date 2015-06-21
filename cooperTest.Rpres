@@ -46,12 +46,16 @@ VO2Max<-22.351 * distance/1000 - 11.288
 
 The VO2 Max is  `r round(VO2Max,3)` 
 
+[Click here to go to the link I take the information and picture](http://burgalesesenelrunning.blogspot.com/2012/03/test-de-cooper-y-vo2-max.html)
+
+
+
 Aerobic condition table
 ========================================================
 
 ![alt text](./fig/tablasCooper.PNG)
 
-[Click here to go to the link I take the information and picture](http://burgalesesenelrunning.blogspot.com/2012/03/test-de-cooper-y-vo2-max.html)
+
 
 
 
